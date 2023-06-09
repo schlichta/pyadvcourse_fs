@@ -17,7 +17,7 @@ dynamic = ["version"]
 dependencies = ["numpy"]
 
 [tool.hatch.version]
-path = "vcs"
+source = "vcs"
 
 
 [tool.hatch.build.targets.wheel]
