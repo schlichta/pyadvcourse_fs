@@ -6,4 +6,4 @@
 [![CI](https://github.com/schlichta/pyadvcourse_fs/actions/workflows/ci.yml/badge.svg)](https://github.com/schlichta/pyadvcourse_fs/actions/workflows/ci.yml)
 
 demo stuff packaging python
-gitt config --global user.email="flaviaschli@gmail.com"
+
