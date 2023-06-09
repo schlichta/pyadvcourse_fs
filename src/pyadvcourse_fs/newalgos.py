@@ -5,6 +5,7 @@ def add_five(x):
 
 
 def add_six(x):
+    # return x - 6
     return x + 6
 
 
