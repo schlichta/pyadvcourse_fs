@@ -4,8 +4,8 @@ def add_five(x):
     return x + 5
 
 
-# def add_two(x):
-#     return x + 2
+def add_six(x):
+    return x + 6
 
 
 # def add_three(x):
